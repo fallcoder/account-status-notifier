@@ -1,0 +1,14 @@
+{
+  "name": "account-status-notifier",
+  "version": "1.0.0",
+  "description": "Un système de gestion des niveaux de compte utilisateur offrant une personnalisation des messages en fonction du niveau d'abonnement.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mouhamed Fall",
+  "license": "MIT",
+  "keywords": []
+}
